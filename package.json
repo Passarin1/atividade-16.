@@ -1,0 +1,16 @@
+{
+  "name": "atividade-16.",
+  "version": "1.0.0",
+  "description": "luis henrique ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "type": "module"
+  }
+}
