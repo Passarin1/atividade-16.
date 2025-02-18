@@ -1,4 +1,4 @@
-import roteadorUsuario from "/src/routes/usuario.js";
+import roteadorUsuario from "./routes/usuarios.js";
 import dotenv from "dotenv";
 import express from "express";
 dotenv.config();
